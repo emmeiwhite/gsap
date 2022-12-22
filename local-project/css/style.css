@@ -18,7 +18,8 @@ button {
 }
 
 .box,
-.box2 {
+.box2,
+.box3 {
   display: block;
   height: 60px;
   width: 60px;
@@ -43,8 +44,17 @@ button {
 .tween {
   background-color: rgb(23, 151, 151);
   padding: 2rem;
+  margin-bottom: 2rem;
 }
 
 .pink {
   background-color: pink;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.purple {
+  background-color: purple;
 }
