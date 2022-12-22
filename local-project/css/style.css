@@ -1,0 +1,23 @@
+body {
+  margin: 10px;
+}
+
+.box {
+  display: block;
+  height: 60px;
+  width: 60px;
+  border-radius: 5px;
+  margin-bottom: 4px;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.grey {
+  background-color: grey;
+}
